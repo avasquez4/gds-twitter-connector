@@ -1,0 +1,11 @@
+{
+	"dataStudio": {
+		"name": "ESU Twitter Connector",
+		"logoUrl": "https://www.esu.edu/_resources/images/logo-esu.png",
+		"company": "East Strousburg University",
+		"companyUrl": "https://www.esu.edu",
+		"supportUrl": "https://github.com/google/datastudio/issues",
+		"description": "This connector can be used to retrive the number of tweets in the last 365 days for ESU's Twitter accounts."
+	},
+	"runtimeVersion": "V8"
+}
